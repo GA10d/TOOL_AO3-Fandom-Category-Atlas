@@ -23,20 +23,6 @@
 - 将多值 `icon_category_text` 拆分后，统计不同 fandom 的 category 占比
 - 输出热力图、堆叠条形图和多份 CSV 汇总
 
-## 建议项目名
-
-我建议将项目命名为：
-
-`AO3 Fandom Category Atlas`
-
-这个名字比原来的描述式标题更像一个完整项目名，也更贴合当前仓库的核心工作：AO3 抓取 + fandom category 分析。
-
-如果你想要更直白一些的备选名，也可以使用：
-
-- `AO3 Scraper & Category Analysis`
-- `AO3 Tags and Fandom Analysis`
-- `AO3 同人标签抓取与分类分析`
-
 ## 核心流程
 
 ### 1. 准备抓取任务
