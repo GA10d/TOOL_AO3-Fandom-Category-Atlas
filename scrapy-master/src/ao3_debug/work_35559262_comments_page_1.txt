@@ -1,0 +1,9 @@
+url=https://archiveofourown.org/works/35559262/chapters/88647805
+status=200
+work_id=35559262
+title=helping the world via murder, a guide by your local reformed terrorist
+comment_page=1
+comment_heading=Comments
+comment_container_count=6
+comment_node_count=0
+next_comments_href=None
